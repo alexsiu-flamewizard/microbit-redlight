@@ -1,0 +1,4 @@
+{
+  "micropython-lsp.target": "microbit",
+  "python.languageServer": "None"
+}

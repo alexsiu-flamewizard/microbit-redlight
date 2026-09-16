@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "carlosperate.bbcmicrobit-micropython",
+    "carlosperate.micropython-lsp"
+  ]
+}
